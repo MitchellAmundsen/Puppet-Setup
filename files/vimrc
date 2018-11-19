@@ -1,0 +1,3 @@
+imap <C-Return> <CR><CR><C-o>k<Tab>
+set tabstop=4
+set softtabstop=0 expandtab shiftwidth=4 smarttab
